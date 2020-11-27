@@ -24,6 +24,10 @@ UX/UI, SQL, and GraphQL! Find my list of future projects and fields of interest 
 - [ ] Set up a project with GraphQL
 - [ ] Code a game with Python
 
+First of all, however, I really need to ...
+
+- [ ] organize my bookmarks 😰
+
 ## 💡 I want to learn more about ...
 
 (in random order)
