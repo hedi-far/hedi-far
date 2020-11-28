@@ -19,8 +19,8 @@ UX/UI, SQL, and GraphQL! Find my list of future projects and fields of interest 
 ## My next projects ...
 
 - [ ] "Library catalogue" with PHP and MySQL
+- [ ] A mobile-first website / a fully responsive web app
 - [ ] Mobile app with React Native
-- [ ] A mobile-first website
 - [ ] Set up a project with GraphQL
 - [ ] Code a game with Python
 
