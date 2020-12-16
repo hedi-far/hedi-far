@@ -49,5 +49,7 @@ First of all, however, I really need to ...
 - [ ] Algorithms & Big O Notation
 - [ ] JS Docs
 - [ ] Docker
+- [ ] PHP
+- [ ] SQL
 
 ✨ I am open for all kinds of coding projects! Just reach out :-) ✨ 
