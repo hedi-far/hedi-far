@@ -17,39 +17,4 @@ Until recently, I was a student @ [Upleveled Coding Bootcamp](https://upleveled.
 ## 💻 My current tech stack 
 
 For now, I am trying to apply and expland my knowledge about JavaScript, Next.js, CSS and Emotion,
-UX/UI, SQL, and GraphQL! Find my list of future projects and fields of interest further down! ⬇️
-
-
-## My next projects 
-
-- [x] "Library catalogue" with PHP and MySQL
-- [ ] Set up a project with GraphQL
-- [ ] Code a game with Python
-- [ ] A mobile-first website 
-- [ ] A fully responsive web app
-- [ ] Mobile app with React Native
-
-
-First of all, however, I really need to ...
-
-- [x] organize my bookmarks 😰
-
-## 💡 I want to learn more about ...
-
-(in random order)
-
-- [ ] JavaScript
-- [ ] CSS grid & flexbox
-- [ ] Functional programming
-- [ ] Emotion and Styled Components
-- [ ] Responsive Design
-- [ ] Accessability 
-- [ ] TypeScript
-- [ ] Next.js
-- [ ] Algorithms & Big O Notation
-- [ ] JS Docs
-- [ ] Docker
-- [ ] PHP
-- [ ] SQL
-
-✨ I am open for all kinds of coding projects! Just reach out :-) ✨ 
+UX/UI, SQL, GraphQL and PHP! 
