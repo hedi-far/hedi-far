@@ -2,7 +2,7 @@
 
 I am a former science librarian & coding newbie.  
 
-I am currently doing an internship @ FOEX, learning about APEX development.
+I am currently doing an internship @ [FOEX](foex.at), learning about APEX development and how to handle a Mac 🤪.
 
 Until recently, I was a student @ [Upleveled Coding Bootcamp](https://upleveled.io/) in Vienna, Austria. 
 
